@@ -10,5 +10,6 @@ Just a Beginner😅
 <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
